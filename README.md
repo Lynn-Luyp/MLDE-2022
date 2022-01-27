@@ -14,7 +14,9 @@ JIANGMIAO XIAO(2111422)
 
 ## Description of data files
 
+We have generated 5 csv files and 5 different dataframe:
 
+* [raw data](https://github.com/Lynn-Luyp/MLDE-2022/tree/main/raw%20data) : the orginal data downloaded from moodle
 
 
 
