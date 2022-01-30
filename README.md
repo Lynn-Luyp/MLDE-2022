@@ -22,7 +22,7 @@ We have generated 5 csv files and 5 different dataframe:
 * [Pre-processed data](https://github.com/Lynn-Luyp/MLDE-2022/tree/main/Pre-processed%20data): The preprocessed csv files 
 * [Binary-Classification-result](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/Binary%20Classification.png): The f1-score of every algorithm when doing binary classication(The samples have 2 labels: good(4* and 5*) and bad(below 4*))
 * [3_Class-Classification-result](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/3_Class%20Classification.png): The f1-score of every algorithm when doing 3_class classication(The samples have 3 labels: 5*, 4* and bad(below 4*))
-
+* [Notebook with full implementation](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/MLDE%20IMA.ipynb): The notebook contains all details in the project
 
 
 
