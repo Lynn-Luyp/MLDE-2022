@@ -32,7 +32,7 @@ The best result is Random Forest ,f1-score = 0.8890688259109312 for two classes.
 The f1-score of every algorithm is shown below:
 ![Binary-Classification-result](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/Binary%20Classification.png)
 
-![3_Class-Classification-result](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/3_Class%20Classification.png)
+![3_Class-Classification-result](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/3_Class%20Classification.png) 
 
 ## Description of data files/Documentaion
 
