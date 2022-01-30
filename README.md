@@ -31,7 +31,7 @@ The second: a group of customers with ratings below 4, a group of customers with
 Predictive models(Results may vary depending on each optimization! )
 A total of **five algorithms** were used in this study: support vector machines, decision trees, logistic regression, random forests and deep learning algorithms.
 
-For **three classes**, the best result is **Random Forest** and f1-score = 0.4312991351436101.
+For **three classes**, the best result is **Random Forest** and f1-score = 0.4312991351436101.  
 For **two classes**, the best result is **Random Forest** and f1-score = 0.8890688259109312.
 
 
