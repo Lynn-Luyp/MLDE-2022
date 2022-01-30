@@ -32,7 +32,7 @@ The best result is Random Forest ,f1-score = 0.8890688259109312 for two classes.
 The f1-score of every algorithm is shown below:
 ![Binary-Classification-result](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/Binary%20Classification.png)
 
-![3_Class-Classification-result](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/3_Class%20Classification.png) 
+![3_Class-Classification-result](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/3_class%20Classification.png) 
 
 ## Description of data files/Documentaion
 
@@ -43,7 +43,7 @@ We have generated 5 csv files and 5 different dataframe:
 * [brain map](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/brain%20map.png): Mind map after discussion
 * [Pre-processed data](https://github.com/Lynn-Luyp/MLDE-2022/tree/main/Pre-processed%20data): The preprocessed csv files 
 * [Binary-Classification-result](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/Binary%20Classification.png): The f1-score of every algorithm when doing binary classication(The samples have 2 labels: good(4* and 5*) and bad(below 4*))
-* [3_Class-Classification-result](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/3_Class%20Classification.png): The f1-score of every algorithm when doing 3_class classication(The samples have 3 labels: 5*, 4* and bad(below 4*))
+* [3_Class-Classification-result](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/3_class%20Classification.png): The f1-score of every algorithm when doing 3_class classication(The samples have 3 labels: 5*, 4* and bad(below 4*))
 * [Notebook with full implementation](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/MLDE%20IMA.ipynb): The notebook contains all details in the project
 * [Project description](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/Project%20description.docx): The detailed description and conclusion of this project 
 
