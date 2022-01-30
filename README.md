@@ -48,7 +48,7 @@ For **3 classes classification** problem
 
 ## Description of data files/Documentaion
 
-We have generated 5 csv files and 5 different dataframe:
+We have built many files:
 
 * [raw data](https://github.com/Lynn-Luyp/MLDE-2022/tree/main/raw%20data): The orginal data downloaded from moodle
 * [wordcloud_IMA](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/wordcloud_IMA.png): In order to select the best(most weighted) feastures from all features, we generate a wordcloud to help us to find the best suitable words from reviews. In our opinions, if consumers write "delievery is good" with 5 stars or write "delivery is bad" with 1 star in the review, it is clear that delievery is literally essential to decide the review is one-star or five-stars, which means that the word "delievery" is very important. We can calculate the frequency of occurrence of different words and generate a wordcloud to visualise the outcome.
