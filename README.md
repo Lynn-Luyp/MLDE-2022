@@ -68,7 +68,7 @@ We have generated 5 csv files and 5 different dataframe:
 ## Model training and Prediction script
 * [training and prediction](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/Model%20training%20and%20Prediction%20script.ipynb): The best model and its prediction, which used the random forest algorithm
 
-## Notebook(s) to detail the full implementation
+## Notebook contains the full implementation
 
 * [Notebook with full implementation](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/MLDE%20IMA.ipynb): The notebook contains all details in the project
 
