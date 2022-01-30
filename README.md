@@ -12,6 +12,28 @@ YUNPENG LU(2014873)
 CRYSTAL CAO(2017442)  
 JIANGMIAO XIAO(2111422)  
 
+## Conclusion
+The team chose four feature values as follows.
+1. shipping cost ratio -> (payment value-item price)/order price
+2. difference between estimated time to real delivered -> Order estimated delivery date - Order delivered carrier date
+3、 Product description length -> Assume that the length of the product description has an impact on the product information
+4、 Product photo qty -> Assume that the number of product images has an impact on the product information
+
+The team divided the Y values into two cases.
+The first: a group of 1-3 customer ratings, a group of 4, a group of 5, a total of three classes
+The second: a group of customers with ratings below 4, a group of customers with ratings above or equal to 4, a total of two classes
+
+Predictive models
+A total of five algorithms were used in this study: support vector machines, decision trees, logistic regression, random forests and deep learning algorithms.
+The best result is Random Forest ,f1-score = 0.4312991351436101 for three classes.
+The best result is Random Forest ,f1-score = 0.8890688259109312 for two classes.
+(Results may vary depending on each optimization! )
+
+The f1-score of every algorithm is shown below:
+![Binary-Classification-result](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/Binary%20Classification.png)
+
+![3_Class-Classification-result](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/3_Class%20Classification.png)
+
 ## Description of data files/Documentaion
 
 We have generated 5 csv files and 5 different dataframe:
@@ -23,21 +45,21 @@ We have generated 5 csv files and 5 different dataframe:
 * [Binary-Classification-result](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/Binary%20Classification.png): The f1-score of every algorithm when doing binary classication(The samples have 2 labels: good(4* and 5*) and bad(below 4*))
 * [3_Class-Classification-result](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/3_Class%20Classification.png): The f1-score of every algorithm when doing 3_class classication(The samples have 3 labels: 5*, 4* and bad(below 4*))
 * [Notebook with full implementation](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/MLDE%20IMA.ipynb): The notebook contains all details in the project
+* [Project description](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/Project%20description.docx): The detailed description and conclusion of this project 
 
 ## Data engineering script(s)
 
-see 
 * [raw data](https://github.com/Lynn-Luyp/MLDE-2022/tree/main/raw%20data): The orginal data downloaded from moodle
 * [Pre-processed data](https://github.com/Lynn-Luyp/MLDE-2022/tree/main/Pre-processed%20data): The preprocessed csv files 
 
 ## Notebook(s) to detail the full implementation
 
-see
 * [Notebook with full implementation](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/MLDE%20IMA.ipynb): The notebook contains all details in the project
 
-## project description
+## Project description
 
-see
+* [Project description](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/Project%20description.docx): The detailed description and conclusion of this project 
+
 
 
 
