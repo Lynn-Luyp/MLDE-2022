@@ -53,11 +53,15 @@ We have generated 5 csv files and 5 different dataframe:
 * [3_Class-Classification-result](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/3_class%20Classification.png): The f1-score of every algorithm when doing 3_class classication(The samples have 3 labels: 5*, 4* and bad(below 4*))
 * [Notebook with full implementation](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/MLDE%20IMA.ipynb): The notebook contains all details in the project
 * [Project description](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/Project%20description.docx): The detailed description and conclusion of this project 
+* [training and prediction](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/Model%20training%20and%20Prediction%20script.ipynb): The best model and its prediction, which used the random forest algorithm
 
-## Data engineering script(s)
+## Data engineering scripts
 
 * [raw data](https://github.com/Lynn-Luyp/MLDE-2022/tree/main/raw%20data): The orginal data downloaded from moodle
 * [Pre-processed data](https://github.com/Lynn-Luyp/MLDE-2022/tree/main/Pre-processed%20data): The preprocessed csv files 
+
+## Model training and Prediction script
+* [training and prediction](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/Model%20training%20and%20Prediction%20script.ipynb): The best model and its prediction, which used the random forest algorithm
 
 ## Notebook(s) to detail the full implementation
 
