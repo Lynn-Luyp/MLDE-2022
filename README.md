@@ -13,7 +13,11 @@ CRYSTAL CAO(2017442)
 JIANGMIAO XIAO(2111422)  
 
 ## Conclusion
-The team chose **four feature** values as follows.
+We generate the wordcloud obtained from analysing reviews:
+![wordcloud](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/wordcloud_IMA.png)
+
+
+After analysing the frequence of different words in reviews, the team chose **four feature** values as follows.
 1. Shipping cost ratio -> (payment value-item price)/order price
 2. Difference between estimated time to real delivered -> Order estimated delivery date - Order delivered carrier date
 3. Product description length -> Assume that the length of the product description has an impact on the product information
