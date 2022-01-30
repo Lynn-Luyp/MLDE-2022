@@ -1,6 +1,6 @@
 # MLDE-2022
 
-Welcome! This is the repository for MLDE-2202
+Welcome! This is the repository for MLDE-2022
 
 ## The group is arranged as follows
 
