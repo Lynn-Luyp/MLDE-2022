@@ -14,6 +14,7 @@ JIANGMIAO XIAO(2111422)
 
 ## Conclusion
 We generate the wordcloud obtained from analysing reviews:
+
 ![wordcloud](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/wordcloud_IMA.png)
 
 
