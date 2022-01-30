@@ -12,7 +12,7 @@ YUNPENG LU(2014873)
 CRYSTAL CAO(2017442)  
 JIANGMIAO XIAO(2111422)  
 
-## Description of data files
+## Description of data files/Documentaion
 
 We have generated 5 csv files and 5 different dataframe:
 
@@ -24,6 +24,20 @@ We have generated 5 csv files and 5 different dataframe:
 * [3_Class-Classification-result](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/3_Class%20Classification.png): The f1-score of every algorithm when doing 3_class classication(The samples have 3 labels: 5*, 4* and bad(below 4*))
 * [Notebook with full implementation](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/MLDE%20IMA.ipynb): The notebook contains all details in the project
 
+## Data engineering script(s)
+
+see 
+* [raw data](https://github.com/Lynn-Luyp/MLDE-2022/tree/main/raw%20data): The orginal data downloaded from moodle
+* [Pre-processed data](https://github.com/Lynn-Luyp/MLDE-2022/tree/main/Pre-processed%20data): The preprocessed csv files 
+
+## Notebook(s) to detail the full implementation
+
+see
+* [Notebook with full implementation](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/MLDE%20IMA.ipynb): The notebook contains all details in the project
+
+## project description
+
+see
 
 
 
