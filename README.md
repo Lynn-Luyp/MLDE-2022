@@ -58,6 +58,7 @@ We have built many files:
 * [Notebook with full implementation](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/MLDE%20IMA.ipynb): The notebook contains all details in the project
 * [Project description](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/Project%20description.docx): The detailed description and conclusion of this project 
 * [training and prediction](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/Model%20training%20and%20Prediction%20script.ipynb): The best model and its prediction, which used the random forest algorithm
+* [nn_utils.py](https://github.com/Lynn-Luyp/MLDE-2022/blob/main/nn_utils.py): a ultis file contains all the functions used in Neural Network Algorithm
 
 ## Data engineering scripts
 
